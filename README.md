@@ -1,15 +1,11 @@
-# Hello, I'm Edward 👋
+
+# 🚀 About Me
+I'm a emerging cybersecurity professional with a background in team building, operations and administration seeking to leverage technical expertise to enhance organizational security. A results-driven leader skilled in crisis management and event coordination with a proven track record at the Director level.
+
+## 🛠 Skills
+Python, Bash, AWS, Operations
 
 
-**EdwardMcFadden/EdwardMcFadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... My Technical Tech Skills In Cybersecurity 
-- 🌱 I’m currently learning ... AWS
-- 👯 I’m looking to collaborate on ... New Fun Ideas
-- 🤔 I’m looking for help with ... Entry Level Tech Job Search
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ... I Love Basketball and Anime 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/edward-mcfadden-13110093//)
 
