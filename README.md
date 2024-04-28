@@ -1,6 +1,6 @@
 
 # 🚀 About Me
-I'm a emerging cybersecurity professional with a background in team building, operations and administration seeking to leverage technical expertise to enhance organizational security. A results-driven leader skilled in crisis management and event coordination with a proven track record at the Director level.
+Enthusiastic and adaptable cybersecurity professional with a proven track record leading and building high-performing teams. Possesses extensive experience in operations and administration, seeking to leverage in-depth technical expertise to fortify organizational security posture. Skilled in crisis management and event coordination, ensuring effective response and mitigation to security threats.
 
 ## 🛠 Skills
 Python, Bash, AWS, Operations
